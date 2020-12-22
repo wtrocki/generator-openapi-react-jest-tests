@@ -108,5 +108,8 @@ MIT © [RakanNimer](https://www.github.com/RakanNimer)
 
 Compile your code with typescript
 Execute:
+
 DEBUG=generator-react-jest-tests* yo react-jest-tests:test
+
+and specificy your ./dist/ folder
 
