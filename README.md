@@ -103,3 +103,10 @@ By default it won't overwrite anything without asking you first.
 ## License
 
 MIT © [RakanNimer](https://www.github.com/RakanNimer)
+
+## Working with typescript
+
+Compile your code with typescript
+Execute:
+DEBUG=generator-react-jest-tests* yo react-jest-tests:test
+
